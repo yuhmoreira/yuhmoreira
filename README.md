@@ -1,7 +1,7 @@
 <img src="/ml_algorithms_animation2.gif">
 
 ## 💫 About Me:
-Hi there! 👋  <br><br>I'm Rogerson Moreira, but you can call me Roger 😊.  <br><br>🤿 I'm passionate about diving into data 📊 and transforming it into insightful information 💡.  <br><br>With a strong background as a senior finance professional 💼, I was fascinated by the extraordinary capacity of statistical models 🔮 to preview the future — and that led me to transition my career into Data Science. Since developing my first project 📈, I can’t imagine doing anything else other than learning and working with data and machine learning 🤖.  <br><br>Feel free to explore my GitHub projects 📂 and connect with me! 🚀<br><br>  
+Hi there! 👋  <br><br>I'm Rogerson Moreira, but you can call me Roger 😊.  <br><br>🤿 I'm passionate about diving into data 📊 and transforming it into insightful information 💡.  <br><br>With a strong analytical background as a senior finance professional 💼, I was fascinated by the extraordinary capacity of statistical models 🔮 to preview the future — and that led me to transition my career into Data Science. Since developing my first project 📈, I can’t imagine doing anything else other than learning and working with data and machine learning 🤖.  <br><br>Feel free to explore my GitHub projects 📂 and connect with me! 🚀<br><br>  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rogerson-yuri-m-a722b867/) <br><br>
