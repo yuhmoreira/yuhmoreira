@@ -1,4 +1,4 @@
-<img src="/ml_algorithms_animation2.gif">
+<img src="/ml_algorithms_animation3.gif">
 
 ## 💫 About Me:
 Hi there! 👋  <br><br>I'm Rogerson Moreira, but you can call me Roger 😊.  <br><br>🤿 I'm passionate about diving into data 📊 and transforming it into insightful information 💡.  <br><br>With a strong analytical background as a senior finance professional 💼, I was fascinated by the extraordinary capacity of statistical models 🔮 to preview the future — and that led me to transition my career into Data Science. Since developing my first project 📈, I can’t imagine doing anything else other than learning and working with data and machine learning 🤖.  <br><br>Feel free to explore my GitHub projects 📂 and connect with me! 🚀<br><br>  
